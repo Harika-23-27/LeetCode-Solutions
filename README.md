@@ -43,6 +43,7 @@ My LeetCode solutions in Python
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0509-fibonacci-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -51,4 +52,16 @@ My LeetCode solutions in Python
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
