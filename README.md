@@ -39,4 +39,16 @@ My LeetCode solutions in Python
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
