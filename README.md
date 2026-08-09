@@ -10,6 +10,7 @@ My LeetCode solutions in Python
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
@@ -46,6 +47,7 @@ My LeetCode solutions in Python
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Simulation
@@ -75,5 +77,6 @@ My LeetCode solutions in Python
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [3731-find-missing-elements](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
