@@ -10,6 +10,7 @@ My LeetCode solutions in Python
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
@@ -43,6 +44,7 @@ My LeetCode solutions in Python
 | [0075-sort-colors](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
