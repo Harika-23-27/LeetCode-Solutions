@@ -13,6 +13,7 @@ My LeetCode solutions in Python
 | [0088-merge-sorted-array](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ My LeetCode solutions in Python
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -88,6 +90,7 @@ My LeetCode solutions in Python
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
