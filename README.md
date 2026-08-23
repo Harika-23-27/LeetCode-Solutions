@@ -21,6 +21,7 @@ My LeetCode solutions in Python
 | [0014-longest-common-prefix](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0392-is-subsequence) |
@@ -72,6 +73,7 @@ My LeetCode solutions in Python
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -82,6 +84,7 @@ My LeetCode solutions in Python
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -124,6 +127,7 @@ My LeetCode solutions in Python
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Quicksort
 |  |
