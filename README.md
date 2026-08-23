@@ -23,6 +23,7 @@ My LeetCode solutions in Python
 | [0020-valid-parentheses](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0392-is-subsequence) |
@@ -115,6 +116,7 @@ My LeetCode solutions in Python
 | ------- |
 | [0013-roman-to-integer](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
