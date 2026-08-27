@@ -27,6 +27,7 @@ My LeetCode solutions in Python
 | [0345-reverse-vowels-of-a-string](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
 |  |
 | ------- |
@@ -121,6 +122,7 @@ My LeetCode solutions in Python
 | [0217-contains-duplicate](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -149,6 +151,7 @@ My LeetCode solutions in Python
 | ------- |
 | [0383-ransom-note](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
