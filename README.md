@@ -27,6 +27,7 @@ My LeetCode solutions in Python
 | [0345-reverse-vowels-of-a-string](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0520-detect-capital](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
