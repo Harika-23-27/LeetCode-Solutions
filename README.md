@@ -56,6 +56,7 @@ My LeetCode solutions in Python
 | [0075-sort-colors](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -69,6 +70,7 @@ My LeetCode solutions in Python
 | [0075-sort-colors](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -83,6 +85,7 @@ My LeetCode solutions in Python
 | [0067-add-binary](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -123,6 +126,7 @@ My LeetCode solutions in Python
 | [0202-happy-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -140,6 +144,7 @@ My LeetCode solutions in Python
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Quicksort
 |  |
@@ -163,4 +168,5 @@ My LeetCode solutions in Python
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
