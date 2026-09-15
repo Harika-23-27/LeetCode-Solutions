@@ -56,6 +56,7 @@ My LeetCode solutions in Python
 | [0035-search-insert-position](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -71,6 +72,7 @@ My LeetCode solutions in Python
 | ------- |
 | [0075-sort-colors](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -125,6 +127,7 @@ My LeetCode solutions in Python
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -159,6 +162,7 @@ My LeetCode solutions in Python
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -172,4 +176,12 @@ My LeetCode solutions in Python
 | ------- |
 | [0035-search-insert-position](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
