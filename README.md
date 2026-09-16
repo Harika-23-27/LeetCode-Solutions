@@ -64,6 +64,7 @@ My LeetCode solutions in Python
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1929-concatenation-of-array](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -101,6 +102,7 @@ My LeetCode solutions in Python
 | ------- |
 | [0067-add-binary](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/Harika-23-27/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
